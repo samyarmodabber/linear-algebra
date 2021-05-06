@@ -8,18 +8,18 @@
 
 - title: Fundamental of Vector Space
   file: chapters/01/intro01
-  # sections:
-  # - title: Group
-  #   file: chapters/01/group
-  # - title: Field
-  #   file: chapters/01/field
-  # - title: Vector Space
-  #   file: chapters/01/vector-space
-  # - title: Subspace
-  #   file: chapters/01/subspace
-  # - title: Independent
-  #   file: chapters/01/independent
-  # - title: Span
-  #   file: chapters/01/span
-  # - title: Transformation
-  #   file: chapters/01/transformation
+  sections:
+  - title: Group
+    file: chapters/01/01-group
+  - title: Field
+    file: chapters/01/01-field
+  - title: Vector Space
+    file: chapters/01/01-vector-space
+  - title: Subspace
+    file: chapters/01/01-subspace
+  - title: Span
+    file: chapters/01/01-span
+  - title: Independent
+    file: chapters/01/01-independent
+  - title: Linear Transformations
+    file: chapters/01/01-transformations
