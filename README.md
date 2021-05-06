@@ -1,6 +1,6 @@
-# Paython(Basic)
+# Linear Algebra and its Application
 
-This repository holds the Jupyter Book source for `Linear Algebra (Theory, Calculus, and Application)`.
+This repository holds the Jupyter Book source for `Linear Algebra and its Application`.
 
 You can find the book here:
 https://samyarmodabber.github.io/linear-algebra
