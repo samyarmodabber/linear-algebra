@@ -4,9 +4,10 @@ By [Samyar Modabber](https://github.com/samyarmodabber)
 
 
 
-This text was originally developed for Farnudan University [Farnudan.com][farnudan].
+This text was originally developed for [Farnudan University](http://farnudan.com)
 
-[farnudan]: http://farnudan.com
+
+You can find the codes in the [Linear Algebra Repository](https://github.com/samyarmodabber/linear-algebra)
 
 
 The contents of this book are licensed for free consumption under the following license:
