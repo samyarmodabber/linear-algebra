@@ -1,4 +1,4 @@
-name: pythom-basic
+name: linear-algebra
 
 channels:
   - conda-forge

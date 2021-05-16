@@ -3,7 +3,7 @@
 This repository holds the Jupyter Book source for `Linear Algebra and its Application`.
 
 You can find the book here:
-https://samyarmodabber.github.io/linear-algebra
+https://linear-algebra.ir
 
 ## 1. To make a change to the book and update
 
